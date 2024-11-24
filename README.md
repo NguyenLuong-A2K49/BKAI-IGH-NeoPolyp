@@ -1,0 +1,2 @@
+- This is a Google Drive link to my trained unet model: https://drive.google.com/file/d/1jbGzWCoQamCWERUdnuELkz1BNeAhbIgY/view?usp=sharing
+- You just need to put the model file into the repository folder which you have just cloned.
